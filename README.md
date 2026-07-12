@@ -12,9 +12,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/Utkarshyadav377">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/yadav-utkarsh/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -64,17 +61,13 @@ I approach engineering with a **product-first mindset**: clean architecture, mea
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/Python-Expert-6D28D9?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-Proficient-4C1D95?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark"/>
 
 <br/><br/>
 
 **AI / ML Core**
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark"/>
-<img src="https://img.shields.io/badge/NumPy-8B5CF6?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-7C3AED?style=flat-square&logo=pandas&logoColor=white"/>
 
 <br/><br/>
 
@@ -254,9 +247,6 @@ current_focus:
 </a>
 <a href="https://github.com/Utkarshyadav377">
 <img src="https://img.shields.io/badge/GitHub-Utkarshyadav377-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/Utkarshyadav377">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
