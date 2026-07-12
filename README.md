@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Utkarsh%20Yadav&fontSize=48&fontColor=D6B4FF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Development%20%7C%20B.Tech%20%40%20IIT%20Jammu&descAlignY=55&descSize=17&descColor=B8A6D9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Utkarsh%20Yadav&fontSize=48&fontColor=D6B4FF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Development%20%7C%20B.Tech%2C%20IIT%20Jammu&descAlignY=55&descSize=17&descColor=B8A6D9"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Algorithmic+Trading+%26+Deep+Learning;Full+Stack+Developer;Open+to+Opportunities" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech%20MT-IIT%20Jammu-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-IIT%20Jammu-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Expected%20Graduation-Apr%202028-4C1D95?style=flat-square&logo=readthedocs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Haryana%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white"/>
 
@@ -40,7 +40,7 @@
 ```
 class UtkarshYadav:
     def __init__(self):
-        self.education   = "B.Tech (MT), Indian Institute of Technology Jammu"
+        self.education   = "B.Tech, Indian Institute of Technology Jammu"
         self.role        = "AI/ML Engineer & Full Stack Developer"
         self.focus       = ["Deep Learning", "Generative AI", "Quantitative Trading Systems"]
         self.mindset     = "Build systems that are reliable, scalable, and genuinely useful"
@@ -55,20 +55,6 @@ I am a B.Tech student at **IIT Jammu**, focused on building **end-to-end softwar
 I approach engineering with a **product-first mindset**: clean architecture, measurable impact, and code that works beyond the demo.
 
 **🎯 Open To:** Software Engineering Internships · AI/ML Roles · Full-Time Engineering Positions
-
----
-
-## ⟡ Education
-
-<div align="center">
-
-| Institution | Degree | Duration |
-|---|---|---|
-| **Indian Institute of Technology Jammu** | B.Tech (MT) | Expected Apr 2028 |
-| **R.P.S Sr. Sec. School, Mahendragarh** | CBSE Class XII — 91% | 2024 |
-| **R.P.S Sr. Sec. School, Mahendragarh** | CBSE Class X — 90% | 2022 |
-
-</div>
 
 ---
 
