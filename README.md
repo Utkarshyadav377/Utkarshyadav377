@@ -48,7 +48,7 @@ class UtkarshYadav:
         return ["Software Engineering Internships", "AI/ML Roles", "Full-Time Positions"]
 ```
 
-I am a Computer Science undergraduate focused on building **end-to-end software systems** that combine solid engineering fundamentals with modern AI/ML capabilities. My work spans full stack development, applied machine learning, and the systems thinking required to ship products that are reliable at scale.
+I am a B.Tech student focused on building **end-to-end software systems** that combine solid engineering fundamentals with modern AI/ML capabilities. My work spans full stack development, applied machine learning, and the systems thinking required to ship products that are reliable at scale.
 
 I approach engineering with a **product-first mindset**: clean architecture, measurable impact, and code that works beyond the demo.
 
